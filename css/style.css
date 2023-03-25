@@ -1,0 +1,67 @@
+/*header styles*/
+.navigation {display: inline-block;
+}
+.nav-li {display: inline-block;
+	vertical-align: middle;
+margin-right: 30px;}
+.logo {vertical-align: middle;
+	margin-right: 150px;
+}
+
+.nav-a-item {font-family: 'Roboto';}
+
+
+.header-wraper {padding: 69px 0 69px 162px;
+/*width: 564px;
+height: 23px; 
+(ამ ორი პარამეტრით ნავიგაცია ჩამოვიდა ქვედა ხაზზე, ვერც კომენტარებით ავტომატური დაშორებების წაშლამ უშველა*/
+}
+.nav-a-item {color: #274C5B;
+	font-size: 20px;
+}
+
+.navicon {vertical-align: middle;}
+
+/*main styles*/
+
+.banner {width: 100%;}
+
+
+
+/*section styles*/
+
+.image-block {width: 1400px;
+margin: 0 auto;}
+
+.container {width: 936px;
+	height: 1081px;
+margin: 0 auto}
+
+/*content1*/
+.heading1 {font-size: 50px;
+color: #274C5B;
+padding-bottom: 28px;
+line-height: 58px;}
+
+.paragraph1 {width: 936px;
+ font-size: 18px;
+color: #525C60;
+line-height: 29px;}
+
+.content1 {text-align: left;
+width: 936px;
+height: 267px;
+margin-top: 70px;
+}
+
+.active {margin-bottom: 28px;}
+
+
+
+
+
+
+
+
+
+
