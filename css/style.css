@@ -264,7 +264,9 @@ line-height: 30px;
 letter-spacing: 0em;
 text-align: left;
 }
-.utility-li {font-family: Open Sans;
+.utility-li {
+/*	ლაინებს შორის დაშორებები არ არის მოცემული.*/
+font-family: Open Sans;
 font-size: 18px;
 font-weight: 400;
 line-height: 49px;
