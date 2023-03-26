@@ -116,6 +116,7 @@ color: #525C60;}
 	display: inline-block;
 	vertical-align: middle;
 }
+.content-photo-radius {border-radius: 30px;}
 
 .content2 {margin-bottom: 70px;}
 
@@ -135,6 +136,69 @@ color: #274C5B;}
 .paragraph4 {margin-top: 11px;
 width: 936px;
 height: 90px;
+font-size: 18px;
+color: #525C60;}
+
+/*section 2*/
+
+.image-container {width: 1400px;
+margin: 97px auto 0 auto;}
+.image-corner {border-radius: 30px;}
+
+/*footer styles*/
+.main-footer {width: 1404px;
+height: 308px;
+margin: 136px auto 61px auto;}
+
+.contact {width: 291px;
+height: 308px;
+text-align: left;
+vertical-align: top;
+display: inline-block;
+margin-right: 142px;}
+
+.contact-heading {margin-bottom: 33px;
+width: 149px;
+height: 35px;
+color: #274C5B;
+font-size: 30px;}
+
+.contact-ul {width: 285px;
+height: 240px;
+color: #525C60;
+font-size: 18px;
+}
+
+.logo-footer {width: 543px;
+height: 136.72px;
+text-align: center;
+display: inline-block;
+vertical-align: top;
+margin-right: 143px;}
+
+.footer-pic {margin-bottom: 26.36px;
+width: 198.79px;
+height: 53.72px;}
+
+.footer-text {width: 543px;
+height: 60px;
+font-size: 18px;
+color: #525C60;}
+
+.utility { width: 285px;
+height: 304px;
+text-align:left; 
+display: inline-block;
+vertical-align: top;}
+
+.heading-utility {width: 171px;
+height: 35px;
+font-size: 30px;
+margin-bottom: 24px;
+color: #274C5B;}
+
+.utility-ul {width: 285px;
+height: 245px;
 font-size: 18px;
 color: #525C60;}
 
