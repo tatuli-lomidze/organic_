@@ -273,11 +273,11 @@ text-align: left;
 }
 
 
+/*footer copyright*/
+
+.copyright {width: 699px;
+margin: 17px auto 23px auto;
+text-align: center;}
 
 
-
-
-
-
-
-
+.copy-span {font-family: 'Roboto-Bold';}
